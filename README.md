@@ -6,6 +6,6 @@
 - ### My Interest :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,java,c,kotlin,python,css" />
+    <img src="https://skillicons.dev/icons?i=vscode,java,c,kotlin,python,css,postgres" />
   </a>
 </p>
